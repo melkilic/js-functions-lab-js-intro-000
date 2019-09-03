@@ -1,8 +1,6 @@
 // write your code below!
-function happyHolidays('') {
-  ('') = 'Happy holidays!' ;
-  ('').pop('Happy holidays!');
-return ().pop;
+function happyHolidays() {
+  return 'Happy holidays!';
 }
 
   function happyHolidaysTo('Mel'){
