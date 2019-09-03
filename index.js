@@ -5,7 +5,7 @@ function happyHolidays() {
 return ().pop;
 }
 
-  function happyHolidaysTo(Mel){
+  function happyHolidaysTo('Mel'){
   return 'Happy holidays, ${name}!' ;
 
 }
