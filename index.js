@@ -5,7 +5,7 @@ function happyHolidays() {
 
 //   function happyHolidaysTo('Mel'){
 //   return 'Happy holidays, ${name}!' ;
-// 
+//
 // }
 // function happyHolidayTo("July 4 th, Mel"){
 //   return 'Happy ${holiday}, ${name}!' ;
