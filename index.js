@@ -1,5 +1,6 @@
 // write your code below!
 function happyHolidays() {
+  () = 'Happy holidays!' ;
   ().pop('Happy holidays!');
 return ().pop;
 }
